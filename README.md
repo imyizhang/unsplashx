@@ -2,12 +2,12 @@
 
 [![GitHub][github_badge]][github_link] [![PyPI][pypi_badge]][pypi_link]
 
-UnsplashX is 
+**UnsplashX** is 
 
 * an extremely simple **Unsplash** e**X**ploerer for Python.
 * written in Python Standard Library
 
-UnsplashX supports to
+**UnsplashX** supports to
 
 * get Unsplash Source's URL of a photo without the Official Unsplash API.
 
@@ -34,7 +34,7 @@ unsplashx.source()
 
 ## License
 
-UnsplashX has a BSD-3-Clause license, as found in the [LICENSE](https://github.com/imyizhang/unsplashx/blob/main/LICENSE) file.
+**UnsplashX** has a BSD-3-Clause license, as found in the [LICENSE](https://github.com/imyizhang/unsplashx/blob/main/LICENSE) file.
 
 
 
@@ -183,13 +183,15 @@ Unsplash Source is being deprecated. Existing uses will continue to work, howeve
 
 ## Contributing
 
+Thanks for your interest in contributing to **UnsplashX**! Please feel free to create a pull request.
+
 
 
 ## Changelog
 
 **UnsplashX 0.1.0**
 
-Made Unsplash Source's URL constructor functional.
+* Made Unsplash Source's URL constructor functional.
 
 
 
@@ -197,8 +199,6 @@ Made Unsplash Source's URL constructor functional.
 
 [github_badge]: https://badgen.net/badge/icon/GitHub?icon=github&color=black&label
 [github_link]: https://github.com/imyizhang/unsplashx
-
-
 
 [pypi_badge]: https://badgen.net/pypi/v/unsplashx?icon=pypi&color=black&label
 [pypi_link]: https://www.pypi.org/project/unsplashx
