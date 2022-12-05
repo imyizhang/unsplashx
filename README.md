@@ -4,12 +4,12 @@
 
 **UnsplashX** is 
 
-* an extremely simple **Unsplash** e**X**ploerer for Python.
+* an extremely simple **Unsplash** e**X**ploerer for Python
 * written in Python Standard Library
 
 **UnsplashX** supports to
 
-* get Unsplash Source's URL of a photo without the Official Unsplash API.
+* get Unsplash Source's URL of a photo without the Official Unsplash API
 
 
 
@@ -90,7 +90,7 @@ Get the identifier given Unsplash share link URL.
 
 ### unsplashx.source
 
-#### `unsplashx.source(photo=None, user=None, collection=None, liked=None, featured=None, resolution=None, update=None, query=None, verbose=False)`
+#### `unsplashx.source(photo=None, user=None, liked=None, collection=None, featured=None, resolution=None, update=None, query=None, verbose=False)`
 
 Get Unsplash Source download link URL of a photo given the parameters.
 
@@ -191,7 +191,7 @@ Thanks for your interest in contributing to **UnsplashX**! Please feel free to c
 
 **UnsplashX 0.1.0**
 
-* Made Unsplash Source's URL constructor functional.
+* Made Unsplash Source's URL constructor functional
 
 
 
